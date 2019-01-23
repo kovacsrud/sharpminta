@@ -20,6 +20,8 @@ namespace GitDemo
 			
 			double e=c/b;
 			
+			string nev="Ubul";
+			
 			Console.WriteLine("Ennyi az összeg:{0}",d);
 			Console.WriteLine("Ennyi az e:{0}",e);
 			
