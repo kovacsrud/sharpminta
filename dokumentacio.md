@@ -1,9 +1,9 @@
-# Dokumentáció a programhoz Markdown-al
+﻿# Dokumentáció a programhoz Markdown-al
 ## Létrehozás
 ---
 ## Kiíratás
 
-´´´csharp
+´´´´csharp
 Console.WriteLine("Új projekt");
-´´´
+´´´´
 
