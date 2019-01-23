@@ -14,11 +14,15 @@ namespace GitDemo
 	{
 		public static void Main(string[] args)
 		{
-			int a,b=0;
+			int a,b=3;
 			int c=19;
 			int d=a+b+c;
 			
+			double e=c/b;
+			
 			Console.WriteLine("Ennyi az összeg:{0}",d);
+			Console.WriteLine("Ennyi az e:{0}",e);
+			
 						
 			Console.ReadLine();
 		}
