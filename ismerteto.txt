@@ -1,1 +1,18 @@
-Github ismertetõ
+Github ->verziókezelés
+
+Két részbõl áll: online kódtár+lokális kódtár, a kettõ között megfelelõ programmal tudunk szinkronizálni.
+(GitHub desktop, esetleg parancssoros verzió)
+
+Visual Studio-ba integrálva van a verzió kezelés.
+
+Alap parancsok:
+-Commit (egy állapot rögzítése)
+-Push (commitok szinkronizálása a netes kódtárba)
+-Pull (letöltés a netes kódtárból, ha esetleg a netes tárba hoztunk létre új fájlt és szinkronizálni kell a lokális kódtárral)
+
+Branch: ágak amelyek a fejlesztéseket tárolják
+A Master branch képviseli az aktuális verziót általában.
+Több branch is lehet egy kódtárban.
+
+
+
