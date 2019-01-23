@@ -18,5 +18,11 @@ namespace GitDemo
 		public A()
 		{
 		}
+		
+		public void Stat()
+		{
+			Console.WriteLine("stat");
+		}
+		                 
 	}
 }
